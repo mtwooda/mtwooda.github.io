@@ -1,0 +1,15 @@
+#main{
+    text-align: center;
+}
+
+h1 {
+    font: 400 80px/1.2 'Nixie One', Georgia, serif;
+}
+
+p {
+	font: 400 15px/1.6 'Ledger', Garamond, Georgia, serif;
+}
+
+body{
+    background: url(img/tweed.png) repeat 0 0;
+}
