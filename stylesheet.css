@@ -1,7 +1,10 @@
-#main{
+.main{
     text-align: center;
+    padding-top: 40px;
 }
-
+.navbar{
+    background-image: url(img/whitey.png);   
+}
 h1 {
     font: 400 80px/1.2 'Nixie One', Georgia, serif;
 }
@@ -11,5 +14,5 @@ p {
 }
 
 body{
-    background: url(img/tweed.png) repeat 0 0;
+    background: url(img/tweed2.png);
 }
