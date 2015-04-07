@@ -26,7 +26,11 @@
     margin-right: 10px;
     font: 300 20px/1.2 'Ledger', serif;
 }
-
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: rgba(0,0,0,0.125);
+}
 /* HTML Stylings */
 h1 {
     font: 500 80px/1.2 'Nixie One', serif;
